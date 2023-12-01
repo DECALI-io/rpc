@@ -1,4 +1,4 @@
-Welcome to DECALI.io Public Services. Here you'll find information about our public endpoints.
+Welcome to DECALI.io public services. Here you'll find information about our public endpoints.
 
 ## Union Testnet (UNO)
 
