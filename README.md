@@ -8,16 +8,16 @@ The Union Testnet (UNO) offers reliable and efficient testing environments for d
 
 For integrating with our gRPC services, use the following link for the gRPC endpoint:
 
-- gRPC Endpoint union-grpc.decali.io:443
+- gRPC Endpoint: `grpc://union-grpc.decali.io:443` or `https://union-grpc.decali.io:443` (if secured with TLS)
 
 ### RPC Endpoint
 
 Access the RPC Endpoint for Union Testnet at:
 
-- [RPC Endpoint](https://union-rpc.decali.io/)
+- [RPC Endpoint](https://your-rpc-endpoint-url/)
 
 ### REST API Endpoint
 
 Use the following link for the API Endpoint:
 
-- [API Endpoint](https://union-api.decali.io/)
+- [API Endpoint](https://your-api-endpoint-url/)
