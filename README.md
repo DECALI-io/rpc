@@ -21,4 +21,4 @@ Access the RPC Endpoint for Union Testnet at:
 
 Use the following for the API Endpoint:
 
-- API Endpoint `https://union-rpc.decali.io/`
+- REST API Endpoint `https://union-api.decali.io/`
