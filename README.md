@@ -15,10 +15,10 @@ For integrating with our gRPC services, use the following link for the gRPC endp
 
 Access the RPC Endpoint for Union Testnet at:
 
-- [RPC Endpoint](https://your-rpc-endpoint-url/)
+- RPC Endpoint `https://your-rpc-endpoint-url/`
 
 ### REST API Endpoint
 
-Use the following link for the API Endpoint:
+Use the following for the API Endpoint:
 
-- [API Endpoint](https://your-api-endpoint-url/)
+- API Endpoint `https://your-api-endpoint-url/`
