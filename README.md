@@ -2,7 +2,7 @@ Welcome to DECALI.io public services. Here you'll find information about our pub
 
 ## Union Testnet (UNO)
 
-The Union Testnet (UNO) offers reliable and efficient testing environments for developers. Below are the key endpoints for accessing the Union Testnet.
+The Union Testnet (UNO) offers reliable and efficient testing environment for developers. Below are the key endpoints for accessing the Union Testnet.
 
 ### gRPC Endpoint
 
